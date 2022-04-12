@@ -7,3 +7,6 @@
 #precios-seccion{
     padding-top: 65px;
 }
+.tarjetas-certificados :hover{
+    transform: translateY(-3%);
+}
